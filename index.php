@@ -7,7 +7,11 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<center>
+<a href="home.php?id=sam&nombre=conde&edad=12" title="">ENVIAR DE LINK</a>
+
+
+
+	<!--<center>
 	<form action="home.php" method="GET" accept-charset="utf-8">
 		<input type="text" name="nombre" value="" placeholder="ingresar un nombre">
 
@@ -16,5 +20,6 @@
 		<input type="submit" name="eviar" value="" placeholder="">
 	</form>
 </center>
+
 </body>
 </html>
